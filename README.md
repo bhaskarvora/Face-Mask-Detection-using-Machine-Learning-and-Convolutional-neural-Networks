@@ -55,8 +55,9 @@ or light up bulb as output. The system will works as follow :
 ![image](https://user-images.githubusercontent.com/84896867/203959156-ee8b1974-ecb6-4545-9f9f-72205fb96bc3.png)
 
 
-
 Output
+
+
 ![image](https://user-images.githubusercontent.com/84896867/203959388-2d549271-9512-4859-88f9-966b7f89b494.png)
 
 With Mask detected
