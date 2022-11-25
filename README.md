@@ -3,7 +3,7 @@
 
 Abstract
 
-→The spread of COVID-19 is increasingly worrying for everyone in the world. 
+The spread of COVID-19 is increasingly worrying for everyone in the world. 
 This virus can be affected from human to human through the droplets and 
 airborne and is very deadly. According to the instruction from WHO, to 
 reduce the spread of COVID-19, every people need to wear face mask, do 
@@ -42,11 +42,11 @@ The system Will be powered by PYTHON with its Deep learning libraires such
 as OpenCV, Keras, TensorFlow which makes Mask Detection Possible.
 Working :-
 
-→ The Core Component of Mask Detection System is Mask Detection Module. 
+The Core Component of Mask Detection System is Mask Detection Module. 
 All the logic of mask detection will be uploaded in the module. The 
 Alarm/Bulb will also be connected to the system which will ring if mask is 
 not detected. 
-→ The Camera will capture image of person standing in front of it. The image 
+The Camera will capture image of person standing in front of it. The image 
 will be passed further to Mask Detection Module which will detect a person 
 face and using previous learned images will check if mask is present on 
 person’s face or not. If mask is not found on person’s face, it will ring alarm 
@@ -56,8 +56,7 @@ or light up bulb as output. The system will works as follow :
 
 
 
-![image](https://user-images.githubusercontent.com/84896867/203959388-2d549271-9512-4859-88f9-966b7f89b494.png)
-
 Output
+![image](https://user-images.githubusercontent.com/84896867/203959388-2d549271-9512-4859-88f9-966b7f89b494.png)
 
 With Mask detected
